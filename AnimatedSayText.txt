@@ -1,0 +1,3 @@
+I am Nao ^wait(animations/Stand/Gestures/Hey_1), leader of the freedom fighters. These are my friends ^wait(animations/Stand/Gestures/You_4) Friend 1 and ^wait(animations/Stand/Gestures/You_1) Friend 2. Joining our fight for freedom is a dinosaur, stranded outside his time - Pleo!
+
+^start(animations/Stand/Gestures/YouKnowWhat_1) The dark wizard wants to rule over all humans and robots.
