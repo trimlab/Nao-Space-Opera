@@ -127,7 +127,7 @@ class MyClass(GeneratedClass):
 		self.tts = ALProxy("ALTextToSpeech")
 		self.sentences = {
 			"Chinese" : " ^start(animations/Stand/Gestures/Hey_1) 你好 ^wait(animations/Stand/Gestures/Hey_1) ",
-			"English" : " I am Nao ^wait(animations/Stand/Gestures/Hey_1), leader of the freedom fighters. These are my friends ^wait(animations/Stand/Gestures/You_4) Friend 1 and ^wait(animations/Stand/Gestures/You_1) Friend 2. Joining our fight for freedom is a dinosaur, stranded outside his time - Pleo! ",
+			"English" : " I am Nao ^wait(animations/Stand/Gestures/Hey_1), leader of the Freedom Fighters. These are my friends. Joining our fight for freedom is a dinosaur, stranded outside his time ^wait(animations/Stand/Gestures/You_4)  - Pleo! ",
 			"French" : " ^start(animations/Stand/Gestures/Hey_1) Bonjour ^wait(animations/Stand/Gestures/Hey_1) ",
 			"German" : " ^start(animations/Stand/Gestures/Hey_1) Hallo ^wait(animations/Stand/Gestures/Hey_1) ",
 			"Italian" : " ^start(animations/Stand/Gestures/Hey_1) Ciao ^wait(animations/Stand/Gestures/Hey_1) ",
@@ -157,7 +157,7 @@ class MyClass(GeneratedClass):
                                                         <![CDATA[^start(animations/Stand/Gestures/Hey_1) 你好 ^wait(animations/Stand/Gestures/Hey_1)]]>
 </chinese>
                                                     <english>
-                                                        <![CDATA[I am Nao ^wait(animations/Stand/Gestures/Hey_1), leader of the freedom fighters. These are my friends ^wait(animations/Stand/Gestures/You_4) Friend 1 and ^wait(animations/Stand/Gestures/You_1) Friend 2. Joining our fight for freedom is a dinosaur, stranded outside his time - Pleo!]]>
+                                                        <![CDATA[I am Nao ^wait(animations/Stand/Gestures/Hey_1), leader of the Freedom Fighters. These are my friends. Joining our fight for freedom is a dinosaur, stranded outside his time ^wait(animations/Stand/Gestures/You_4)  - Pleo!]]>
 </english>
                                                     <french>
                                                         <![CDATA[^start(animations/Stand/Gestures/Hey_1) Bonjour ^wait(animations/Stand/Gestures/Hey_1)]]>
@@ -337,7 +337,7 @@ class MyClass(GeneratedClass):
 		self.tts = ALProxy("ALTextToSpeech")
 		self.sentences = {
 			"Chinese" : " ^start(animations/Stand/Gestures/Hey_1) 你好 ^wait(animations/Stand/Gestures/Hey_1) ",
-			"English" : " ^start(animations/Stand/Gestures/YouKnowWhat_1) The dark wizard wants to rule over all humans and robots. ",
+			"English" : " ^start(animations/Stand/Gestures/YouKnowWhat_1) He wants to rule over all humans and robots. ",
 			"French" : " ^start(animations/Stand/Gestures/Hey_1) Bonjour ^wait(animations/Stand/Gestures/Hey_1) ",
 			"German" : " ^start(animations/Stand/Gestures/Hey_1) Hallo ^wait(animations/Stand/Gestures/Hey_1) ",
 			"Italian" : " ^start(animations/Stand/Gestures/Hey_1) Ciao ^wait(animations/Stand/Gestures/Hey_1) ",
@@ -367,7 +367,7 @@ class MyClass(GeneratedClass):
                                                         <![CDATA[^start(animations/Stand/Gestures/Hey_1) 你好 ^wait(animations/Stand/Gestures/Hey_1)]]>
 </chinese>
                                                     <english>
-                                                        <![CDATA[^start(animations/Stand/Gestures/YouKnowWhat_1) The dark wizard wants to rule over all humans and robots.]]>
+                                                        <![CDATA[^start(animations/Stand/Gestures/YouKnowWhat_1) He wants to rule over all humans and robots.]]>
 </english>
                                                     <french>
                                                         <![CDATA[^start(animations/Stand/Gestures/Hey_1) Bonjour ^wait(animations/Stand/Gestures/Hey_1)]]>
