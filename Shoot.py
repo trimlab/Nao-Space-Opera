@@ -118,7 +118,6 @@ def main(robotIP, PORT=9559):
 
 	try:
 	  motion = ALProxy("ALMotion", robotIP, PORT)
-	  motion = ALProxy("ALMotion")
 	  motion.angleInterpolationBezier(names, times, keys)
 	except BaseException, err:
 	  print err
